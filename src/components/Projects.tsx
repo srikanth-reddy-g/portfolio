@@ -140,7 +140,7 @@ const Projects = () => {
     {
       title: "Spreadsheet Web Application",
       description:
-        "A feature-rich web application for creating, editing, and managing spreadsheets with a modern and intuitive interface.",
+        "A robust web application for creating, editing, and managing spreadsheets with a modern and intuitive interface.",
       images: ["/spreadsheet.png"],
       github:
         "https://github.com/srikanth-reddy-g/i544/tree/main/submit/prj4-sol",
@@ -520,7 +520,7 @@ const Projects = () => {
                     <h4 className="text-lg font-semibold text-gray-900 dark:text-white mb-2">
                       Description
                     </h4>
-                    <p className="text-sm text-justify">
+                    <p className="text-justify">
                       {selectedProject.details}
                     </p>
                   </div>

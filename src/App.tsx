@@ -7,6 +7,7 @@ import Contact from "./components/Contact";
 import ExperienceTimeline from "./components/ExperienceTimeline";
 import EducationTimeline from "./components/EducationTimeline";
 import Footer from "./components/Footer";
+import { Analytics } from "@vercel/analytics/react";
 
 const experienceItems = [
   {
@@ -47,6 +48,7 @@ const educationItems = [
 function App() {
   return (
     <div className="bg-gray-50 overflow-x-hidden">
+      <Analytics />
       <Header />
       <Hero />
       <About />

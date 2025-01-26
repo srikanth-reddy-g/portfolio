@@ -40,11 +40,11 @@ const About = () => {
             className="space-y-6 text-justify flex-grow"
           >
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed text-lg ">
-              Hi, I’m Srikanth Reddy Gunukula, a Software Engineer with over 3
-              years of experience building robust and scalable applications.
-              With a Master’s degree in Computer Science from Binghamton
-              University, I bring a strong technical foundation and a
-              results-driven mindset to every project I undertake.
+              Hi, I’m Srikanth Reddy Gunukula, a Software Engineer with 2+ years
+              of experience building robust and scalable applications. With a
+              Master’s degree in Computer Science from Binghamton University, I
+              bring a strong technical foundation and a results-driven mindset
+              to every project I undertake.
             </p>
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed text-lg">
               I have hands-on expertise across the full stack, excelling in both
